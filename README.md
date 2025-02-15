@@ -26,7 +26,7 @@ classDiagram
     
     class Card {
         +string number
-        +int limit
+        +float limit
     }
     
     class News {
